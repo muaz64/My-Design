@@ -38,9 +38,9 @@ A design likely created for 'Peshawar Express'.
 A specific countdown post graphic.
 ![Countdown Post](./Img/Countdown%20Post%20for%20BG.png)
 
-### 9.  **YouTube Thumbnail - নিত্যদিনের জ্যাভত্তি...**
+### 9.  **YouTube Thumbnail - নিত্যদিনের জাভাস্ক্রিপ্ট**
 A custom thumbnail designed for a YouTube video.
-![YouTube Thumbnail](./Img/YouTube%20Thumbnail%20-%20নিত্যদিনের%20জ্যাভত্তি....png)
+![YouTube Thumbnail](./Img/YouTube%20Thumbnail%20-%20নিত্যদিনের%20জাভাস্ক্রিপ্ট%20FInal.png)
 
 ### 10.  **Zipper - Final Design**
 A final design piece named 'Zipper'.
