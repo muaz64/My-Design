@@ -1,6 +1,6 @@
 # Design Portfolio
 
-This repository contains my design work, including logos, banners, Facebook covers, and website covers.
+This repository contains my design work, including logos, banners, Facebook covers,Youtube Thumbneils and website covers.
 
 ## Designs
 
